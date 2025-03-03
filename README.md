@@ -22,11 +22,6 @@ Flutter app with clean user interface and morden functionallities like goole map
 | white | Color(#FFFFFF) |
 | pink shade | Color.fromARGB(255, 196, 103, 169) |
 
-
-## Demo
-
-https://www.linkedin.com/feed/update/urn:li:activity:7013721931489144832?utm_source=share&utm_medium=member_desktop
-
     
 ## Features
 
@@ -34,12 +29,6 @@ https://www.linkedin.com/feed/update/urn:li:activity:7013721931489144832?utm_sou
 - live locations
 - google authentiactin
 - Cross platform
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at https://www.linkedin.com/in/himanshu-goyal048/
-
 
 ## Run Locally
 
