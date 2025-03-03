@@ -18,9 +18,9 @@ Flutter app with clean user interface and morden functionallities like goole map
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| purple | ![0xff721c80](https://via.placeholder.com/10/0a192f?text=+) Color(0xff721c80) |
-| white | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) Color(#FFFFFF) |
-| pink shade | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) Color.fromARGB(255, 196, 103, 169) |
+| purple | Color(0xff721c80) |
+| white | Color(#FFFFFF) |
+| pink shade | Color.fromARGB(255, 196, 103, 169) |
 
 
 ## Demo
