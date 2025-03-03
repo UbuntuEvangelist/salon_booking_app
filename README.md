@@ -30,33 +30,6 @@ Flutter app with clean user interface and morden functionallities like goole map
 - google authentiactin
 - Cross platform
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  flutter pub get
-```
-
-Start the app
-
-```bash
-  fluttrer run
-```
-
-
 ## Screenshots
 
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/reddit-clone-e4353.appspot.com/o/photo_2022-12-28_13-01-31.jpg?alt=media&token=847a0b2f-a894-4b0a-a086-9144346d63e9)
