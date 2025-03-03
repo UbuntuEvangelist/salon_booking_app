@@ -14,11 +14,6 @@ Flutter app with clean user interface and morden functionallities like goole map
 
 #### Get google maps api
 
-
-## Authors
-
-- [@HimanshuGoyal](https://www.linkedin.com/in/himanshu-goyal048/)
-
 ## Color Reference
 
 | Color             | Hex                                                                |
